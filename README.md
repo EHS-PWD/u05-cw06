@@ -15,7 +15,7 @@ Students will enhance the "Speedy the Russian Tortoise" profile page by applying
 
 ```html
 <div class="bio-section">
-  <img src="speedy.jpg" alt="Speedy the Russian Tortoise" class="bio-img" />
+  <img src="speedy.png" alt="Speedy the Russian Tortoise" class="bio-img" />
   <p class="bio-text">
     Speedy is a Russian tortoise with a love for adventure. Whether basking in
     the sun or munching on fresh greens, Speedy enjoys life at a slow, steady
