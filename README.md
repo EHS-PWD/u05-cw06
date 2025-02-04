@@ -5,7 +5,7 @@ Students will enhance the "Speedy the Russian Tortoise" profile page by applying
 
 ### **1. Open Your Project**
 
-- Open your **`index.html`** and **`prolfile-style.css`** files in your text editor.
+- Open your **`profile.html`** and **`profile-style.css`** files in your text editor.
 
 ### **2. Create the Bio Section in HTML**
 
@@ -24,11 +24,11 @@ Students will enhance the "Speedy the Russian Tortoise" profile page by applying
 </div>
 ```
 
-- Save **`index.html`**.
+- Save **`profile.html`**.
 
 ### **3. Style the Bio Section Container**
 
-- Open **`prolfile-style.css`**.
+- Open **`profile-style.css`**.
 - Add a new CSS rule set called `.bio-section`:
 - Ensures the section does not take up the full width by adding a width of 80%
 - Prevents it from becoming too wide by setting a max-width of 500px;
@@ -53,7 +53,7 @@ Students will enhance the "Speedy the Russian Tortoise" profile page by applying
 
 ### **6. Test Your Changes**
 
-- Open **`index.html`** in Google Chrome.
+- Open **`profile.html`** in Google Chrome.
 - Verify that:
   - The bio section appears below the profile card.
   - The image floats to the left of the bio text.
